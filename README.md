@@ -1,17 +1,7 @@
-<!--suppress HtmlDeprecatedAttribute -->
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
-
-
-
 # Hey! 👋 Nice to see you. #
 
-
-
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/kotlin-283155.png" alt="kotlin" width="100">](https://kotlinlang.org/docs/home.html)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/rust-3521686-2945130.png" alt="rust" width="100">](https://www.rust-lang.org/)
-[<img src="https://hsto.org/webt/5b/2e/6a/5b2e6a4a389cc942256392.png" alt="golang" width="100">](https://golang.org/doc/)
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jooris-hadeler&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 
